@@ -1,0 +1,2 @@
+# klasy
+klasy dla Lajkonika
